@@ -1,2 +1,2 @@
 #!/bin/bash
-install -m 755 /dev/null hello
+chmod 753 hello
