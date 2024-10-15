@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 644 hello
+install -m 755 /dev/null hello
