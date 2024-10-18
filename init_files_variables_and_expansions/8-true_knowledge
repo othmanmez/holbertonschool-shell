@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Environment variable TRUEKNOWLEDGE is not set."
+if [ -z "$TRUEKNOWLEDGE" ]; then
