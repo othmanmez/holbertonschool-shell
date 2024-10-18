@@ -1,2 +1,2 @@
 #!/bin/bash
-if [ -z "$TRUEKNOWLEDGE" ]; then
+if [ -z "$TRUEKNOWLEDGE" ] ; then
